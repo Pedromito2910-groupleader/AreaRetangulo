@@ -1,0 +1,8 @@
+1. Início
+2. Escrever no ecrã a mensagem: introduza o comprimento do retângulo
+3. Ler o valor numérico do comprimento do retângulo
+4. Escrever no ecrã a mensagem: introduza a largura do retângulo 
+5. Ler o valor numérico da largura do retângulo
+6. Calcular a área do retângulo
+7. Apresentar no ecrã a área do retângulo (calculada no ponto 6)
+8. Fim

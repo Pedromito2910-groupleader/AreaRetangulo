@@ -1,0 +1,11 @@
+Algoritmo AreaRetangulo;
+Variáveis area, comprimento, largura:real;
+
+Inicio
+   Escrever("Introduza o comprimento do retângulo)
+   Ler("comprimento");
+   Escrever("Introduza a largura do retângulo")
+   Ler("largura")
+   area <- comprimento * largura;
+   Escrever("O resultado é", area);
+Fim    
